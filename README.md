@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelsatumba
-- 👀 I’m interested in making ios apps
-- 🌱 I’m currently learning swift on Udemy
-- 💞️ I’m looking to collaborate on apps!
+- 👀 I’m interested in making web applications & ios apps
+- 🌱 I’m currently learning web dev & swift on Udemy
+- 💞️ I’m looking to collaborate on websites & ios apps!
 - 📫 How to reach me ... mjsatumba@gmail.com
 
 <!---
