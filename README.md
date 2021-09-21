@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelsatumba
-- 👀 I’m interested in making web applications & ios apps
-- 🌱 I’m currently learning web dev & swift on Udemy
+- 👀 I’m interested in Brazilian Jiu Jitsu, Squatting, & Comedy
+- 🌱 I’m currently learning Web Dev & Swift
 - 💞️ I’m looking to collaborate on websites & ios apps!
 - 📫 How to reach me ... mjsatumba@gmail.com
 
