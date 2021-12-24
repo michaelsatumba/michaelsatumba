@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelsatumba
 - 👀 I’m interested in Brazilian Jiu Jitsu, Squatting, & Comedy
-- 🌱 I’m currently learning Web Dev & Swift
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on websites & ios apps!
 - 📫 How to reach me ... mjsatumba@gmail.com
 
