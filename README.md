@@ -10,10 +10,12 @@ src='https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelsatumba&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+
+
+
+<!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@48352786-86ea-4479-bd4f-17c49abe9352/811dd86d-b464-4798-b2d6-b0e0a3224853.svg"></embed></figure>
-
-
-
+<!--END_SECTION:waka-->
 
 <!---
 michaelsatumba/michaelsatumba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
