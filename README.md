@@ -13,6 +13,9 @@ src='https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f
 <figure><embed src="https://wakatime.com/share/@48352786-86ea-4479-bd4f-17c49abe9352/1c59d3cb-e6c4-44b8-bc01-492b9f5ede47.svg"></embed></figure>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
