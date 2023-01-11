@@ -18,9 +18,7 @@ src='https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
-```
+
 
 <!--END_SECTION:waka-->
 
