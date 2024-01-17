@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on websites & ios apps!
 - 📫 How to reach me ... mjsatumba@gmail.com
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelsatumba)](https://github.com/michaelsatumba/github-readme-stats)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelsatumba&show_icons=true&theme=radical)
